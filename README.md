@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Webstore
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This README will be updated when the project is complete.
 
 ## Available Scripts
 
